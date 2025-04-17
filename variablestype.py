@@ -19,3 +19,8 @@ print("converted to int " ,int(a))
 
 # type error occurs when we tried to change the the incompatable datatypes like string to int ,
 # but changes when the string it self consists of only numbers
+# None is like null in other languages a variable that can be assigned a value in the future 
+
+variable = None  
+
+print(type(variable))
